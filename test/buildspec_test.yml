@@ -1,0 +1,8 @@
+version: 0.2
+env: []
+phases:
+  install:
+    - echo Hello
+  pre_build: []
+  build: []
+  post_build: []
